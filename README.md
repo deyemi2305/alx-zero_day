@@ -1,1 +1,1 @@
-My first readme
+Great to be a software engineering student
